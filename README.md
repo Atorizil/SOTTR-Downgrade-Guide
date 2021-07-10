@@ -14,3 +14,10 @@
 In steam, click on your account in the top right and go to **Account Details**.
 
 The large name that you see on that page is your steam username (without the 's)
+
+## Downgrading
+
+This repository contains a `downgrade.bat` file. [Download](downgrade.bat) this file to where you extracted depot downloader. 
+
+![](Pictures/downgrade%20bat%20save%20location.png)
+

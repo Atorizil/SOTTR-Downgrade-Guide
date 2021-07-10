@@ -76,7 +76,7 @@ Make sure you disable DLC to stop crashes:
 	"LastUpdated"		"1619480919"
 	"UpdateResult"		"4"
 
-  ...
+  	...
 }
 ```
 

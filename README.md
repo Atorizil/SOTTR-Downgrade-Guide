@@ -9,11 +9,7 @@
 [Download DotNet 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-5.0.7-windows-x64-installer) (Direct link)
 
 
-## Getting Steam Username
 
-In steam, click on your account in the top right and go to **Account Details**.
-
-The large name that you see on that page is your steam username (without the 's)
 
 ## Downgrading
 
@@ -21,3 +17,8 @@ This repository contains a `downgrade.bat` file. [Download](downgrade.bat) this 
 
 ![](Pictures/downgrade%20bat%20save%20location.png)
 
+### Getting Steam Username
+
+In steam, click on your account in the top right and go to **Account Details**.
+
+The large name that you see on that page is your steam username (without the 's)

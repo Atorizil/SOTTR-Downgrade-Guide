@@ -10,7 +10,9 @@ Downgrade guide for Shadow of the Tomb Raider (Windows)
 
 ## Downgrading
 
-This repository contains a `downgrade.bat` file. [Download](downgrade.bat) this file to where you extracted depot downloader. 
+This repository contains a `downgrade.bat` file. [Download](https://github.com/Atorizil/SOTTR-Downgrade-Guide/releases/download/v1.0/downgrade.bat) this file to where you extracted depot downloader.
+
+*Smartscreen / Windows Defender may flag the file when you run it. It is safe so allow it to run*
 
 ![](img/downgrade%20bat%20save%20location.png)
 
